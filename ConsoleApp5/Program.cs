@@ -40,7 +40,7 @@ namespace ConsoleApp5
 
             Console.WriteLine(mySoldier.GetHealth());
 
-            Console.Write("Press Enter to continue!");
+            Console.Write("Press Enter to continue!!!!!!!!!!!!!!!!!!");
             Console.ReadLine();
         }
     }

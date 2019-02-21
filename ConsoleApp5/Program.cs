@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp5
+namespace Wild_animals
 {
     public interface IAnimal
     {
